@@ -6,7 +6,7 @@ last_name = "Modhvadiya"
 print(name,last_name) #valid 
 
 print(name + last_name ) # also valid but result no having space 
-print(name+" "+ last_name ) # valid and haven't space 
+print(name+" "+ last_name ) # valid and have  space 
 
 # second way to use concatinas 
 
